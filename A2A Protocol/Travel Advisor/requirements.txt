@@ -1,0 +1,8 @@
+streamlit
+langgraph
+google-generativeai
+python-docx
+geopy
+folium
+streamlit-folium
+python-dotenv
