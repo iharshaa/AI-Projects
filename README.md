@@ -55,7 +55,7 @@ streamlit run app.py
 
 You can deploy this app using Streamlit Cloud for free:
 
-1. Go to: [Streamlit](streamlit.io/cloud)
+1. Go to: [Streamlit](https://streamlit.io/cloud)
 
 2. Click “New app” and connect your GitHub repo
 
